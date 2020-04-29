@@ -1,4 +1,4 @@
-#tic tac toe game
+#hello frands i am Adithya:P
 #after you get 3 in a row, click on the X/O tile again to display win message box
 #EDIT(17/10/2017): Added scoreboard and resetting of game
 
@@ -160,9 +160,9 @@ root.mainloop()
 #Have a good day!
 #NOTE:
 #the grid is in the form:-
-#                             1   2   3
-#                             4   5   6
-#                             7   8   9
+#                             6   9   6
+#                             9   6   9
+#                             6   9   6
 
 
 
